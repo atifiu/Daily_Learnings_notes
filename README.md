@@ -12,4 +12,12 @@
         Lets you interactively analyse your data in Jupyter Notebooks without any code.  
         Reference: https://twitter.com/akshay_pachaar/status/1625472450288041985
 
+    - ##### Added plotly dumbell plot
+        Plotly Dumbell plot has been added to https://github.com/atifiu/dumbell_plot repo  
+
+    - ##### Dir method
+        Dir method can be used to list all available method on any python object usinf dir(objact_name)  
+        Reference: https://twitter.com/CodingComputing/status/1625767054157713408
+        
+
 ---
